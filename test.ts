@@ -27,6 +27,10 @@
 
 
 
+type numOrString = String | number;
+
+
+
 
 
 
