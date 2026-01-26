@@ -27,7 +27,7 @@
 
 
 
-type numOrString = String | number;
+type numString = String | number;
 
 
 
