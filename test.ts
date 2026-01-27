@@ -27,8 +27,6 @@
 
 
 
-type numString = String | number;
-
 
 
 
