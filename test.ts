@@ -15,7 +15,7 @@ function assignRoles(role:Roletype) {
     }
 }
 
-assignRoles("admin");
+assignRoles("admin")
 
 
 
