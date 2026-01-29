@@ -1,4 +1,4 @@
-type Roletype = ("admin" | "read" );
+type Roletype = ("admin" | "read" | "read-write" | "readOnly");
 
 function assignRoles(role:Roletype) {
     switch (role) {
@@ -9,6 +9,14 @@ function assignRoles(role:Roletype) {
         case "read":
             console.log("Nigga is assigned an read role");
             break;
+
+            case "read-write":
+                console.log("Yn is assigned an read-write role");
+                break;
+
+            case "readOnly":
+                console.log("Blud assigned an readOnly role");
+                break;
 
         default:
             break;
