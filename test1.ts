@@ -8,7 +8,7 @@ function assignRoles(role:Roletype) {
 
         case "read":
             console.log("Nigga is assigned an read role");
-            break;
+            break
 
             case "read-write":
                 console.log("Yn is assigned an read-write role");
