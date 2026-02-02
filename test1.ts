@@ -2,5 +2,6 @@ function invent(object:string):void {
 
     console.log(`Object Processing.....\nInventing ${object}`); 
 }
+
 invent("Aicraft");
-console.log("set vehicle into motion")
+console.log("Set vehicle into motion")
