@@ -1,34 +1,9 @@
-type Roletype = ("admin" | "read" | "read-write" | "readOnly");
-
-function assignRoles(role:Roletype) {
-    switch (role) {
-        case "admin":
-            console.log("Fam is assigned an admin role");
-            break;
-
-        case "read":
-            console.log("Nigga is assigned an read role");
-            break;
-
-            case "read-write":
-                console.log("Yn is assigned an read-write role");
-                break;
-
-            case "readOnly":
-                console.log("Blud assigned an readOnly role");
-                break;
-
-        default:
-            break;
-    }
-}
-
-assignRoles("admin")
+const people = [
+  { name: "Alice", age: 30 },
+  { name: "Bob", age: 25 },
+  { name: "Charlie", age: 35 },
+];
 
 
-
-
-
-
-
-
+const names = people.map((person) => person.name);console.log(names);
+console.log(names);
