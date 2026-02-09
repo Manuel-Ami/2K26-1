@@ -1,1 +1,1 @@
-type numOstring  = string | number;
+
