@@ -1,8 +1,8 @@
-var people = [
-    { name: "Alice", age: 30 },
-    { name: "Bob", age: 25 },
-    { name: "Charlie", age: 35 },
-];
-var names = people.map(function (person) { return person.name; });
-console.log(names);
-console.log(names);
+function Obliterate(person) {
+    console.log("Hello  ".concat(person, "..., You have been selected for obliteration!\nDon't worry, it's just a simulation."));
+}
+var con = true;
+if (con) {
+    console.log("Yes yes we do want to obliterate you\nStarting the obliteration process...");
+    Obliterate("John Doe");
+}
