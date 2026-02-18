@@ -1,6 +1,4 @@
-let con : boolean = true;
+function invent(object:string):void {
 
-if (con) {
-    console.log("Yes yes we do want to obliterate you\nStarting the obliteration process...");
-    
+    console.log(`Object Processing.....\nInventing ${object}`); 
 }
