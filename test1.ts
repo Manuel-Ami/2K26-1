@@ -4,4 +4,4 @@ function invent(object:string):void {
 }
 
 
-const penal : string = "twen"
+const penal : string = "en"
