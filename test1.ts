@@ -4,4 +4,4 @@ function invent(object:string):void {
 }
 
 
-let penal : string = "en"
+let enal : string = "en"
