@@ -4,4 +4,5 @@ function invent(object:string):void {
 }
 
 
-let enal : string = "en"
+let a : string = "en";
+invent(a);
