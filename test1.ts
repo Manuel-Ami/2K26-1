@@ -4,8 +4,6 @@ function invent(object:string):void {
 }
 
 
-let a : string = "en";
-invent(a);
 
 
 console.log("bitch into the santi mo");
