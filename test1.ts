@@ -6,4 +6,4 @@ function invent(object:string):void {
 
 
 
-console.log("bitch into the santi mo");
+console.log("into the santi mo");
