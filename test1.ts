@@ -7,3 +7,4 @@ function invent(object:string):void {
 
 
 console.log("into the santi mo");
+console.log("Me amor de lanus inspirus")
