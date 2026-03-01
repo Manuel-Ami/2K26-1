@@ -4,4 +4,4 @@ function invent(object:string):void {
 }
 
 invent("Aicraft");
-console.log("Set vehicle into motion");
+console.log("Set vehicle into motion")
