@@ -6,6 +6,5 @@ if (typeof cam === "string") {
 
 
 function createError(message:string, code:number): never {
-    throw {message, code}
-}   
-
+    throw {message, code};
+} 
