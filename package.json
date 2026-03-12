@@ -1,0 +1,20 @@
+{
+  "name": "introducing-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuel-Ami/2K26-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuel-Ami/2K26-1/issues"
+  },
+  "homepage": "https://github.com/Manuel-Ami/2K26-1#readme",
+  "description": ""
+}
