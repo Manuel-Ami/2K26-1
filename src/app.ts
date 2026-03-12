@@ -5,4 +5,5 @@ let person = {
 };
 
 const { name, age, city } = person;
-console.log(name)
+console.log(name);
+
